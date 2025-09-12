@@ -11,4 +11,4 @@ This app depends on the following Python libraries:
 * macOS not tested
 
 ## 🎬Run Video
-![run_gif](https://github.com/user-attachments/assets/f16edec7-2647-4faf-83af-c0293900b31c)
+![tray_video](https://github.com/user-attachments/assets/af0b012b-2b60-4246-8a7c-de0c7b9495d3)
