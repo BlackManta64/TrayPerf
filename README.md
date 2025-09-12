@@ -1,4 +1,4 @@
-![icon_trayperf_github](./logo.png)
+![icon_trayperf_github](./docs/img/logo.png)
 
 [![Github issues](https://img.shields.io/github/issues/BlackManta64/TrayPerf)](https://github.com/BlackManta64/TrayPerf/issues)
 [![Github forks](https://img.shields.io/github/forks/BlackManta64/TrayPerf)](https://github.com/BlackManta64/TrayPerf/network/members)
@@ -22,4 +22,4 @@ This app depends on the following Python libraries:
 * macOS not tested
 
 ## 🎬Run Video
-![tray_video](./tray_video.gif)
+![tray_video](./docs/img/tray_video.gif)
