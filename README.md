@@ -1,3 +1,5 @@
+![icon_trayperf_github](https://github.com/user-attachments/assets/e68fdf9e-ec48-49f4-9bfa-1961078e8a11)
+
 ## 📦 Required Libraries (for Python Scripts)
 This app depends on the following Python libraries:
 
