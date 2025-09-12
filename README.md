@@ -1,11 +1,11 @@
-## 📦 必要なライブラリ (Pythonスクリプトを実行する場合)
-このアプリは以下の Python ライブラリに依存しています。
+## 📦 Required Libraries (for Python Scripts)
+This app depends on the following Python libraries:
 
-- [psutil](https://pypi.org/project/psutil/) - CPU/RAM 使用率取得
-- [GPUtil](https://pypi.org/project/GPUtil/) - GPU 使用率取得
-- [PySide6](https://pypi.org/project/PySide6/) - GUI & システムトレイ表示
+- [psutil](https://pypi.org/project/psutil/) - Get CPU/RAM Usage
+- [GPUtil](https://pypi.org/project/GPUtil/) - Get GPU Usage
+- [PySide6](https://pypi.org/project/PySide6/) - GUI & System Tray Display
 
-## 💻 実行環境
-- Python 3.12 (64bit 推奨)
-- Windows / Linux  
-  ※ macOS は未検証
+## 💻 Execution Environment
+- Python 3.12 (64-bit recommended)
+- Windows / Linux
+* macOS not tested
