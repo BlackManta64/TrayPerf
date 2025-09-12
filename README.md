@@ -9,3 +9,6 @@ This app depends on the following Python libraries:
 - Python 3.12 (64-bit recommended)
 - Windows / Linux
 * macOS not tested
+
+## 🎬Run Video
+![run_gif](https://github.com/user-attachments/assets/f16edec7-2647-4faf-83af-c0293900b31c)
