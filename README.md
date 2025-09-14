@@ -10,6 +10,9 @@
 `Python` `sys` `PySide6` `psutil` `GPUtil`
 
 > [!CAUTION]
+> The latest version is no longer available for download due to security reasons. Please install v1.0.1 instead.
+
+> [!CAUTION]
 > This software may be falsely detected as a Trojan (Trojan:Script/Wacatac.B!ml) by some antivirus programs, such as Windows Defender.
 > 
 > **Why this happens:**  
